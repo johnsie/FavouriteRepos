@@ -25,7 +25,7 @@ IPTV
 Collection of IPTV
 
 modBusTCP (C#)- Winforms to connect to modbus devices
-
+https://github.com/stephan1827/modbusTCP-DotNET
 
 PHPmodbus (PHP) - Pull and write data to modbus devices using php
 https://github.com/johnsie/phpmodbus
