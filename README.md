@@ -11,7 +11,7 @@ Ambie - White noise app
 https://github.com/jenius-apps/ambie
 
 
-Androud  Network Discovery (Java ) - Discover machines on LAN, ping, portscanning etc 
+Android  Network Discovery (Java ) - Discover machines on LAN, ping, portscanning etc 
 https://github.com/johnsie/android-network-discovery
 
 
